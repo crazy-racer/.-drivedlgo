@@ -25,6 +25,10 @@ A Minimal Google Drive Downloader Written in Go
 ## Adding Credentials in application's database
 
 `
+chmod +x drivedlgo
+`
+
+`
 drivedlgo set <path_to_credentials.json>
 `
 
@@ -40,7 +44,7 @@ yay -S drivedlgo-bin
 
 - Usage can be found in --help
 `
-drivedlgo --help
+./drivedlgo --help
 `
 
 ## Note:-
