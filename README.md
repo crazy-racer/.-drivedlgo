@@ -30,8 +30,6 @@ mv /sdcard/Download/drivedlgo/drivedlgo .
 cp /sdcard/Download/credentials.json .
 
 `
-
-`
 chmod +x drivedlgo
 `
 
