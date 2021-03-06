@@ -25,6 +25,10 @@ A Minimal Google Drive Downloader Written in Go
 ## Adding Credentials in application's database
 
 `
+mv /sdcard/Download/drivedlgo/drivedlgo
+`
+
+`
 chmod +x drivedlgo
 `
 
