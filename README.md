@@ -28,6 +28,7 @@ A Minimal Google Drive Downloader Written in Go
 mv /sdcard/Download/drivedlgo/drivedlgo .
 `
 cp /sdcard/Download/credentials.json .
+
 `
 
 `
